@@ -1,5 +1,5 @@
 import React from "react";
-import WorldVideo from "../Assets/WorldVeed.mp4";
+import WorldVideo from "../Assets/WorldVeedTrim.mp4";
 import useTypingEffect from "../CustomHooks/useTypingEffect";
 
 const CompanyStatement = () => {
