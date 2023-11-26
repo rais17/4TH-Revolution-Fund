@@ -1,5 +1,5 @@
 import React from 'react'
-import RFVideo from "../Assets/4RFVideo.mp4";
+import RFVideo from "../Assets/4RFVideoTrim.mp4";
 import HeroTemplate from '../Components/HeroTemplate';
 import RFImage from "../Assets/4RF_Content.jpg";
 import RFImg2 from "../Assets/4RFImg2.jpg";
