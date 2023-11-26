@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroTemplate from '../Components/HeroTemplate'
-import InsightVideo from "../Assets/InsightVideo.mp4";
+import InsightVideo from "../Assets/InsightVideoTrim.mp4";
 import Imgage1 from "../Assets/InsightImg1.jpg";
 import Image2 from "../Assets/InsightImg2.jpg";
 import Image3 from "../Assets/InsightImg3.jpg";
