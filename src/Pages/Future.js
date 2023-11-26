@@ -1,5 +1,5 @@
 import React from 'react'
-import FutureVideo from "../Assets/FutureVisionVideo.mp4";
+import FutureVideo from "../Assets/FutureVisionVideoTrim.mp4";
 import HeroTemplate from '../Components/HeroTemplate';
 import ArticlesTemplate from '../Components/ArticlesTemplate';
 import FutureImage1 from "../Assets/FutureImg01.jpg";
