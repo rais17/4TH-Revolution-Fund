@@ -1,5 +1,5 @@
 import React from 'react'
-import HistoryVideo from "../Assets/WorldBuildingVeed.mp4";
+import HistoryVideo from "../Assets/WorldBuildingVeedTrim.mp4";
 import HeroTemplate from '../Components/HeroTemplate';
 import ArticlesTemplate from '../Components/ArticlesTemplate';
 import HistoryImg1 from "../Assets/HistoryImg1.jpg";
