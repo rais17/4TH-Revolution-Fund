@@ -50,7 +50,7 @@ const Corousel = ({ items }) => {
             <h1 className="text-5xl font-semibold text-center text-transparent uppercase font-Titillium bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
               {item.title}
             </h1>
-            <p className="text-xl text-center text-gray-300 sm:text-justify font-Titillium">
+            <p className="text-xl text-center text-gray-300 font-Titillium">
               {item.description}
             </p>
           </div>
