@@ -5,10 +5,10 @@ const Quotes = ({description, image, isReverse}) => {
     <div
       className={`w-full flex ${
         isReverse ? `flex-row-reverse` : `flex-row`
-      } items-center gap-10 px-6 shadow-2xl relative overflow-hidden`}
+      } items-center gap-10 px-2 sm:px-6 shadow-2xl relative overflow-hidden`}
     >
       <div className="inset-0 z-20 sm:w-2/3 xxs:max-sm:relative">
-        <pre className="text-xl text-gray-300 whitespace-pre-line sm:text-justify font-Titillium xxs:max-sm:py-8 xxs:max-sm:px-4 ">
+        <pre className="text-xl text-gray-300 whitespace-pre-line sm:text-justify font-Titillium xxs:max-sm:py-8 ">
           {description}
         </pre>
       </div>
