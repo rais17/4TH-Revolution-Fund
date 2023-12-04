@@ -113,7 +113,7 @@ const Revolution = () => {
 
   const quotes = [
     {
-      description: `I started with artificial intelligence precisely because it IS going to be the single most important technology of the Fourth Industrial Revolution. We could still have a Fourth Industrial Revolution without it, just look at the sheer number of technologies that are going to mature at roughly the same time, but Ai is what is set up to completely redefine human life as we know it.\n\nIt is an accelerant that will move past human cognition. Indeed many technologies will only reach their maximum potential BECAUSE of it. Like medicine and robotics— without AI, medicine would progress slowly, with life extension and cures for deep diseases like cancer, diabetes, and prion diseases being forever just-round-the-corner.`,
+      description: `I started with artificial intelligence precisely because it IS going to be the single most important technology of the Fourth Industrial Revolution. We could still have a Fourth Industrial Revolution without it, just look at the sheer number of technologies that are going to mature at roughly the same time, but Ai is what is set up to completely redefine human life as we know it.\n\nIt is an accelerant that will move past human cognition. Indeed many technologies will only reach their maximum potential BECAUSE of it. Like medicine and robotics— without AI, medicine would progress slowly, with life extension and cures for deep diseases like cancer, diabetes, and prion diseases being forever just-round-the-corner, , while robots flat out would never progress beyond where they are now without AI (barring something unusual like VR remote control of robots becoming a major industry).`,
       image: QuotesTop,
       isReverse: false,
     },
